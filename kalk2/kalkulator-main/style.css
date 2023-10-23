@@ -1,0 +1,52 @@
+#main {
+  background-color: beige;
+  width: 800px;
+  margin: auto;
+  height: 1000px;
+  border-radius: 5%;
+  padding: 18px;
+}
+#gora {
+  background-color: burlywood;
+  width: 780px;
+  height: 250px;
+  border-radius: 5%;
+  margin: auto;
+}
+#klawiatura {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+button {
+  height: 120px;
+  width: 150px;
+  background-color: bisque;
+  margin: auto;
+  border-radius: 5%;
+  font-size: 50px;
+}
+#zero {
+  width: 360px;
+}
+
+#gora{
+  font-size: 70px;
+  text-align: right;
+  
+}
+
+#ac,
+#plusminus,
+#procent,
+#dzielenie,
+#mnozenie,
+#minus,
+#plus,
+#zero,
+#przecinek,
+#rownasie{
+  background-color: burlywood
+}
+
